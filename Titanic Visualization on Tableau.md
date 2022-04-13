@@ -1,0 +1,6 @@
+
+# Titanic Visualization on Tableau
+
+Please enter this [link](https://public.tableau.com/app/profile/ofir.yeshurun/viz/TitanicPredVisualization/TitanicPredVisualization) to access my dashboard to this project using the Tableau software:
+
+(https://public.tableau.com/app/profile/ofir.yeshurun/viz/TitanicPredVisualization/TitanicPredVisualization)
